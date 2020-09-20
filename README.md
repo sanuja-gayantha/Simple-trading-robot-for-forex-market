@@ -2,12 +2,14 @@
 
 requirements: MetaTrader-5 Account (recommend : ICMarkets account)
 
-1. Algo folder - This contain the setup file ,To run program go inside Algo folder run login.exe.
+Algo folder - This contain the setup file ,To run program go inside Algo folder run login.exe.
 
-2. Mql5 folder - This contain mql5 code , you need to put that script to Experts folder. 
+Mql5 folder - This contain mql5 code , you need to put that script to Experts folder. 
 	  to do this open Metatrader5 go File > Open Data Folder > MQL5 > Experts > (add mql5 script heae)
 
 for more details read User Manual. (Use this software at your own risk)
+
+
 
 
 ## 1.1 About Foreign Exchange Market
