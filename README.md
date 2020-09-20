@@ -36,7 +36,9 @@ Trading platform comes with IDE called Metaediter 5. It supports mql5 programmin
 
 
 •	Software – 
+
 MQL5 script – this is the script running on trading platform. It contains client socket code. 
+
 Python program – this is the part coding using python programming language. One of the python scripting function is server socket.
 Those server socket and client socket is running on same local host (same PC). I use client server architecture for this to communicate between these 2 languages. The reason for this is trading platform not support python programming language (2019). 
 Beside these server socket function there are many other functions like tester, generate report, etc written in python. 
