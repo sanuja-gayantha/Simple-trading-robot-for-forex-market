@@ -15,8 +15,14 @@
 
   We can trade these one of currencies agents another currency. After combine 2 of these currencies we have 28 currency pairs.  So, there are 28*2 = 48 opportunities to trade. 
 
+![](images/28_pairs.PNG)
 
-  
+## 1.2 Structure of the process
+
+![](images/
+
+
+
 
 
 
