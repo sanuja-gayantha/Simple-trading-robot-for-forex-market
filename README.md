@@ -30,17 +30,19 @@ This explains all the process of the system.
 
 
 •	Trading Platform – To execute buy, sell orders need trading platform. There are many kinds of trading platforms are available in different brokers. 
-    Ex: - Use MT5 trading platform supplied by IC Markets broker
+Ex: - Use MT5 trading platform supplied by IC Markets broker
 
-    Trading platform comes with IDE called Metaediter 5. It supports mql5 programming language that similar to C++. It helps to create write mql5 scripts. trading platform only support mql5 scripts only (2019). Mql5 is still under developing language so it not suitable for complex data analysis. Trading platform get data from MT5 server.
+Trading platform comes with IDE called Metaediter 5. It supports mql5 programming language that similar to C++. It helps to create write mql5 scripts. trading platform only support mql5 scripts only (2019). Mql5 is still under developing language so it not suitable for complex data analysis. Trading platform get data from MT5 server.
+
 
 •	Software – 
-    MQL5 script – this is the script running on trading platform. It contains client socket code. 
-    Python program – this is the part coding using python programming language. One of the python scripting function is server socket.
-    Those server socket and client socket is running on same local host (same PC). I use client server architecture for this to communicate between these 2 languages. The reason for this is trading platform not support python programming language (2019). 
-    Beside these server socket function there are many other functions like tester, generate report, etc written in python. 
+MQL5 script – this is the script running on trading platform. It contains client socket code. 
+Python program – this is the part coding using python programming language. One of the python scripting function is server socket.
+Those server socket and client socket is running on same local host (same PC). I use client server architecture for this to communicate between these 2 languages. The reason for this is trading platform not support python programming language (2019). 
+Beside these server socket function there are many other functions like tester, generate report, etc written in python. 
 
-• SQLite database – stores the necessary data/ information.
+•	SQLite database – stores the necessary data/ information.
+
 
 
 
