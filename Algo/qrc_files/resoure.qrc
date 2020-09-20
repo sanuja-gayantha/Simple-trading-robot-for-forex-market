@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="new">
+    <file>Algo.png</file>
+    <file>Alogo.ico</file>
+    <file>close.png</file>
+    <file>cartesian.png</file>
+    <file>document.png</file>
+    <file>icons8-shutdown-80.png</file>
+    <file>line-chart.png</file>
+    <file>server.png</file>
+    <file>status.png</file>
+    <file>database(1).png</file>
+    <file>database.png</file>
+  </qresource>
+</RCC>
