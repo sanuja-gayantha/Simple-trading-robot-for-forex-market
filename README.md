@@ -1,4 +1,4 @@
-# About Foreign Exchange Market
+### 1.1 About Foreign Exchange Market
 
   Foreign Exchange Market also known as forex market is a kind of financial market it decentralized global market where all the world's currencies trade. It is one of the most actively traded markets in the world, with an average daily trading volume of $5 trillion. foreign exchange market, traded 24 hours a day, 5 days a week. In recent years, many of these different financial markets are open to the public. because of that there are many individual traders exist. 
 
