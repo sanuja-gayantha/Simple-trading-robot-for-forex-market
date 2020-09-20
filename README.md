@@ -18,8 +18,7 @@
 ![](images/28_pairs.PNG)
 
 ## 1.2 Structure of the process
-
-![](images/
+![](images/structure_of_process.PNG)
 
 
 
