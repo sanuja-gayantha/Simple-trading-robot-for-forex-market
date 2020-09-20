@@ -1,6 +1,6 @@
 ## 1.0 Important
 
-requirements: MetaTrader-5 Account (recommend : ICMarkets account)
+Requirements: MetaTrader-5 Account (recommend : ICMarkets account)
 
 Algo folder - This contain the setup file ,To run program go inside Algo folder run login.exe.
 
