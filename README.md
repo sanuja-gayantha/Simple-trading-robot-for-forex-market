@@ -19,6 +19,9 @@
 
 
 
+
+
+
 ## 1.2 Structure of the process
 
 This explains all the process of the system.
@@ -37,7 +40,7 @@ Python program – this is the part coding using python programming language. On
 Those server socket and client socket is running on same local host (same PC). I use client server architecture for this to communicate between these 2 languages. The reason for this is trading platform not support python programming language (2019). 
 Beside these server socket function there are many other functions like tester, generate report, etc written in python. 
 
-SQLite database – stores the necessary data/ information.
+• SQLite database – stores the necessary data/ information.
 
 
 
